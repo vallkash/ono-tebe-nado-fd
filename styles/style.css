@@ -172,7 +172,7 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, 334px);
   list-style: none;
-  justify-content: space-between; 
+  justify-content: space-between;
   color: white;
 }
 
