@@ -209,6 +209,7 @@ h1 {
   text-transform: uppercase;
   text-decoration: underline;
   font-size: 22px;
+  line-height: 120%;
 }
 
 .card_text {
@@ -275,11 +276,8 @@ footer {
   display: flex;
   justify-content: space-between;
   grid-template-columns: 1fr 1fr 240px;
-  margin-right: 50px;
-  margin-left: 50px;
-  margin-top: 180px;
+  margin: 180px 50px 82px;
   font-size: 18px;
-  min-height: 180px;
 }
 
 .footer_address {
